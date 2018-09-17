@@ -1,5 +1,10 @@
-/* QUESTION
- *
+/********************************************************************************************/
+/*                                                                                          */
+/*                                CHARUL AND VESSELS                                        */
+/*                                                                                          */
+/********************************************************************************************/
+
+/* 
  * Charul has been given a task by Ishaan. He challenges him to fill a large container of capacity K litres. Charul has N vessels with him with diiferent capacities.
  * The capacities of the vessels are given by an array A. The condition is that the container should be filled upto the brim but no water should be wasted in overflowing. Also, the vessels can't be filled partially.
  * Determine if Charul can fill up the container with the given conditions or not.
@@ -49,7 +54,12 @@
  * 
 **/
 
-// Solution
+/********************************************************************************************/
+/*                                                                                          */
+/*                                          SOLUTION                                        */
+/*                                                                                          */
+/********************************************************************************************/
+
 let arr = [6,4,3,2];
 var num = 23;
 
