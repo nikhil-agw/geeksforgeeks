@@ -31,7 +31,6 @@
  * Output
  * YES
  * NO
-
  * 
 **/
 
